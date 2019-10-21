@@ -1,0 +1,27 @@
+AI@2019@ai
+
+
+阿里云数据库
+数据库为云数据库，配置为MySQL；请大家下载DataGrip或者MySQL WorkBench [ https://dev.mysql.com/downloads/workbench/ ]
+进行数据库的访问，如果不会下载或者使用的请大家参考项目一的指导文件（Trello上有）；
+访问地址和密码为：
+数据库地址（Host）：rm-8vbwj6507z6465505ro.mysql.zhangbei.rds.aliyuncs.com
+用户名（User）：root
+用户密码（Password）：AI@2019@ai
+数据库名（Database）：stu_db
+表名：news_chinese
+
+ 
+阿里云ECS服务器
+服务器地址：student@39.100.3.165
+服务器密码：AI@2019@ai
+使用要求：
+服务器装好了一个anaconda，大家在上面操作时候，每组先create一个虚拟环境，然后在/home/student/project目录下的project-01下面，建立一个自己的team名称的文件夹，把代码至于文件下。
+服务器上不要放大数据，课上的数据，可以放在数据库，就放在数据库里，大家公用。
+安装新程序前，请同学们在/home目录下package.txt看是否有人安装过，避免大家重复安装；如果需要安装新程序，请同步到package.txt中备注说明一下版本和包的信息。
+跑程序前，请同学们先查看cpu使用率，超过80%，就不要跑程序啦，等其他人跑完程序，再使用哦。资源有限，期待大家学习愉快。
+查看cpu使用率：
+
+
+
+使用anaconda，需要激活：
